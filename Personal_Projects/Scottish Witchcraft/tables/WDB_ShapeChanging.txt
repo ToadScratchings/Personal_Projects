@@ -1,0 +1,59 @@
+"SC/JO/1","JO",1,"C/EGD/2120","Animal","dog (tyke)","jhm",16/5/2001 16:50:39,"jhm",25/6/2001 10:01:18
+"SC/JO/14","JO",14,"C/EGD/402","Animal","cat","jhm",11/7/2001 10:15:37,"jhm",11/7/2001 10:15:43
+"SC/JO/15","JO",15,"C/EGD/400","Animal","cat","jhm",16/7/2001 10:45:45,"jhm",16/7/2001 10:45:51
+"SC/JO/16","JO",16,"C/JO/2846","Apparition","as herself","jhm",24/7/2001 10:27:32,"jhm",13/11/2002 14:29:50
+"SC/JO/17","JO",17,"C/JO/2882","Animal","cats","jhm",7/9/2001 13:14:27,"jhm",7/9/2001 13:14:33
+"SC/JO/38","JO",38,"C/EGD/2159","Animal","Dog","jhm",9/5/2002 13:03:12,"jhm",9/5/2002 13:03:15
+"SC/JO/39","JO",39,"C/EGD/2159","Animal","Cat","jhm",9/5/2002 13:04:56,"jhm",9/5/2002 13:04:59
+"SC/JO/40","JO",40,"C/EGD/2160","Apparition","as herself or a devil in her likeness","jhm",9/5/2002 16:59:43,"jhm",13/11/2002 14:30:44
+"SC/JO/41","JO",41,"C/EGD/2122","Animal","hares","jhm",10/6/2002 18:49:18,"jhm",10/6/2002 18:49:21
+"SC/JO/42","JO",42,"C/EGD/2122","Animal","cats","jhm",10/6/2002 18:49:22,"jhm",10/6/2002 18:49:25
+"SC/JO/43","JO",43,"C/EGD/2327","Animal","porpoise (pellack whale)","jhm",19/6/2002 16:32:47,"jhm",19/6/2002 16:33:06
+"SC/JO/44","JO",44,"C/EGD/297","Animal","cat","jhm",4/7/2002 10:59:15,"jhm",4/7/2002 10:59:20
+"SC/JO/45","JO",45,"C/EGD/297","Animal","black dog","jhm",4/7/2002 10:59:21,"jhm",4/7/2002 10:59:45
+"SC/JO/46","JO",46,"C/EGD/294","Animal","Margaret Duchill appeared as a cat","jhm",4/7/2002 11:54:44,"jhm",4/7/2002 11:55:03
+"SC/JO/47","JO",47,"C/EGD/294","Animal","she took shape of cat","jhm",4/7/2002 14:18:00,"jhm",4/7/2002 14:18:23
+"SC/JO/48","JO",48,"C/EGD/2140","Animal","as a hare","jhm",18/7/2002 10:17:19,"jhm",18/7/2002 10:17:23
+"SC/JO/5","JO",5,"C/EGD/1324","Animal","cat","jhm",13/6/2001 12:41:21,"jhm",13/6/2001 12:41:30
+"SC/JO/54","JO",54,"C/EGD/1558","Animal","cat","jhm",8/10/2002 15:51:16,"jhm",8/10/2002 15:51:22
+"SC/JO/55","JO",55,"C/EGD/1558","Animal","hare","jhm",8/10/2002 15:51:23,"jhm",8/10/2002 15:51:25
+"SC/LA/1","LA",1,"C/EGD/160","Animal","Hare","LEM",17/5/2001 10:52:20,"LEM",17/5/2001 10:52:27
+"SC/LA/10","LA",10,"C/EGD/434","Apparition","to man in his sleep","LEM",3/7/2001 13:27:30,"jhm",13/11/2002 14:30:52
+"SC/LA/11","LA",11,"C/EGD/434","Apparition","to a man caught in a whirlwind","LEM",3/7/2001 13:27:44,"jhm",13/11/2002 14:31:04
+"SC/LA/12","LA",12,"C/EGD/409","Apparition","bedside and bedfoot many times","LEM",4/7/2001 12:54:50,"jhm",13/11/2002 12:49:42
+"SC/LA/13","LA",13,"C/EGD/409","Apparition","when people were injured","LEM",4/7/2001 12:56:03,"jhm",13/11/2002 12:50:05
+"SC/LA/17","LA",17,"C/EGD/691","Insect","Bummie Bee","LEM",21/9/2001 09:13:02,"jhm",13/11/2002 12:36:09
+"SC/LA/18","LA",18,"C/EGD/694","Insect","Bummie Bee","LEM",21/9/2001 09:15:01,"jhm",13/11/2002 12:36:59
+"SC/LA/19","LA",19,"C/EGD/694","Animal","Corbie","LEM",21/9/2001 09:15:12,"LEM",11/11/2002 11:17:40
+"SC/LA/2","LA",2,"C/EGD/160","Vision","to a drunken stable hand","LEM",17/5/2001 10:52:54,"jhm",13/11/2002 14:25:55
+"SC/LA/21","LA",21,"C/EGD/147","Spirit","As herself","LEM",26/9/2001 16:04:55,"LEM",26/9/2001 16:04:59
+"SC/LA/22","LA",22,"C/EGD/147","Animal","a Dog","LEM",26/9/2001 16:05:00,"LEM",26/9/2001 16:05:09
+"SC/LA/23","LA",23,"C/EGD/141","Spirit",,"LEM",1/10/2001 12:42:16,"LEM",1/10/2001 12:42:27
+"SC/LA/25","LA",25,"C/EGD/1364","Spirit","She appeared at night, crushing a sleeping man","LEM",23/10/2001 13:11:02,"LEM",23/10/2001 13:12:05
+"SC/LA/26","LA",26,"C/EGD/964","Animal","a cat with her face","LEM",23/10/2001 15:50:02,"LEM",23/10/2001 15:50:10
+"SC/LA/27","LA",27,"C/EGD/784","Vision","to a dying man","LEM",29/11/2001 10:25:58,"jhm",13/11/2002 14:26:10
+"SC/LA/28","LA",28,"C/EGD/1781","Animal","flew like a bird","LEM",31/1/2002 09:58:10,"LEM",31/1/2002 09:58:20
+"SC/LA/29","LA",29,"C/EGD/743","Apparition","at the foot of a man's bed","LEM",18/2/2002 15:47:40,"jhm",13/11/2002 14:32:02
+"SC/LA/3","LA",3,"C/EGD/853","Animal","Cat","LEM",17/5/2001 11:24:06,"LEM",17/5/2001 11:24:14
+"SC/LA/30","LA",30,"C/EGD/737","Apparition","in someone's bed","LEM",18/2/2002 17:03:04,"jhm",13/11/2002 14:32:20
+"SC/LA/31","LA",31,"C/EGD/737","In Dream","curses in a dream","LEM",18/2/2002 17:05:26,"LEM",18/2/2002 17:05:37
+"SC/LA/32","LA",32,"C/EGD/732","Apparition","at a guys bed","LEM",18/2/2002 17:18:15,"jhm",13/11/2002 14:32:35
+"SC/LA/33","LA",33,"C/EGD/750","Apparition","in a guys bed chamber","LEM",18/2/2002 17:20:39,"jhm",13/11/2002 14:32:55
+"SC/LA/34","LA",34,"C/EGD/749","Apparition",,"LEM",18/2/2002 17:25:48,"jhm",13/11/2002 14:33:10
+"SC/LA/35","LA",35,"C/EGD/749","Animal",,"LEM",18/2/2002 17:26:25,"LEM",18/2/2002 17:26:34
+"SC/LA/36","LA",36,"C/EGD/750","Animal",,"LEM",18/2/2002 17:26:45,"LEM",18/2/2002 17:26:46
+"SC/LA/37","LA",37,"C/EGD/732","Animal",,"LEM",18/2/2002 17:27:03,"LEM",18/2/2002 17:27:05
+"SC/LA/4","LA",4,"C/EGD/183","Apparition","Agnes and her daughter haunting after a flyting","LEM",22/5/2001 14:56:51,"jhm",13/11/2002 14:33:23
+"SC/LA/43","LA",43,"C/EGD/2257","Vision","tormenting a sailor","LEM",19/6/2002 16:11:52,"jhm",13/11/2002 14:26:58
+"SC/LA/44","LA",44,"C/EGD/616","Animal","crow","LEM",25/6/2002 13:36:51,"LEM",25/6/2002 13:37:03
+"SC/LA/48","LA",48,"C/EGD/2410","In Dream","dreamt she was flyting with the suspect","LEM",10/7/2002 10:24:23,"LEM",10/7/2002 10:24:43
+"SC/LA/49","LA",49,"C/EGD/1605","Animal","cats in a fire","LEM",12/7/2002 09:55:08,"LEM",12/7/2002 09:55:37
+"SC/LA/50","LA",50,"C/EGD/293","Animal","Corbie","LEM",18/7/2002 11:55:21,"LEM",18/7/2002 11:55:24
+"SC/LA/51","LA",51,"C/EGD/293","Animal","Sow","LEM",18/7/2002 11:58:05,"LEM",18/7/2002 11:58:09
+"SC/LA/52","LA",52,"C/EGD/33","Animal","Brok, [badger]","LEM",24/7/2002 10:30:35,"LEM",24/7/2002 10:30:46
+"SC/LA/53","LA",53,"C/EGD/1558","Animal","Jackdaw (Kea)","LEM",22/8/2002 11:08:11,"LEM",22/8/2002 11:08:29
+"SC/LA/56","LA",56,"C/EGD/600","In Dream","she was gripping a boy","LEM",7/11/2002 14:01:07,"LEM",7/11/2002 14:01:16
+"SC/LA/6","LA",6,"C/EGD/383","Animal","grey cat","LEM",29/6/2001 09:55:15,"jhm",5/11/2002 15:28:33
+"SC/LA/7","LA",7,"C/EGD/383","Phantom","Rat","LEM",29/6/2001 09:55:17,"LEM",29/6/2001 09:55:26
+"SC/LA/8","LA",8,"C/EGD/385","Apparition","cat","LEM",29/6/2001 10:37:23,"jhm",13/11/2002 14:33:53
+"SC/LA/9","LA",9,"C/EGD/401","Apparition","for 8 nights, then suffocated a child","LEM",2/7/2001 15:17:50,"jhm",13/11/2002 14:34:21

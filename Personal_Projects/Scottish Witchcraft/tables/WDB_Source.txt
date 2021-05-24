@@ -1,0 +1,124 @@
+"Abbotsford Club Miscellany","LEM",17/6/2002 11:12:29,"jhm",18/9/2002 15:04:26
+"Aberdeen City Archives","jhm",25/7/2002 12:53:16,"jhm",25/7/2002 12:53:16
+"Aberdeen Presbytery records","jhm",11/3/2002 16:04:36,"jhm",11/3/2002 16:04:36
+"Aberdour Kirk session records","jhm",28/6/2002 14:12:01,"jhm",28/6/2002 14:12:01
+"An Old Kirk Chronicle","jhm",4/9/2001 14:13:43,"jhm",4/9/2001 14:13:43
+"APS","jhm",17/7/2001 09:19:17,"jhm",17/7/2001 09:19:17
+"Argyll Justiciary Records","jhm",27/6/2001 12:02:22,"jhm",27/6/2001 12:02:22
+"Ayr Burgh Accounts","LEM",14/8/2001 09:38:53,"LEM",14/8/2001 09:38:53
+"Ayr Council Records (MS in Carnegie Library Ayr)","LEM",1/8/2002 16:37:46,"LEM",1/8/2002 16:37:46
+"Ayr Kirk Session records","jhm",21/8/2001 16:11:13,"jhm",21/8/2001 16:11:13
+"Ayr Presbytery Records","LEM",2/8/2002 10:46:12,"LEM",2/8/2002 10:46:12
+"Biggar Presbytery records","jhm",2/8/2001 10:21:02,"jhm",2/8/2001 10:21:02
+"Book of the Universall Kirk . . T Thompson (ed.)","LEM",1/8/2002 17:05:19,"LEM",1/8/2002 17:05:19
+"Books of Adjournal","LEM",15/6/2001 16:23:18,"LEM",15/6/2001 16:23:18
+"Brechin Presbytery records","jhm",5/2/2002 13:13:41,"jhm",5/2/2002 13:13:41
+"Burgh Court Book of Newton on Ayr (MS, Cargegie L)","LEM",5/8/2002 12:27:22,"LEM",5/8/2002 12:27:22
+"Caithness Presbytery records","jhm",17/4/2002 09:12:59,"jhm",17/4/2002 09:12:59
+"Calendar of State Papers Relating to Scotland","jhm",12/11/2002 09:03:53,"jhm",12/11/2002 09:03:53
+"Canongate Burgh Court Book 1574-77","LEM",10/7/2002 09:02:46,"LEM",10/7/2002 09:02:46
+"Circuit Court Books","LEM",26/11/2001 12:13:01,"LEM",26/11/2001 12:13:01
+"Circuit Court Papers","LEM",4/2/2002 10:22:24,"LEM",4/2/2002 10:22:24
+"Committee of Estates","LEM",30/8/2002 13:54:15,"LEM",30/8/2002 13:54:15
+"Corstorphine Kirk Session records","jhm",11/7/2002 10:17:01,"jhm",11/7/2002 10:17:01
+"County Folklore","jhm",19/6/2002 16:07:23,"jhm",19/6/2002 16:07:23
+"Court of the Bishopric of Orkney","LEM",17/6/2002 16:17:49,"LEM",17/6/2002 16:17:49
+"Cupar Presbytery records","jhm",1/8/2002 11:49:33,"jhm",1/8/2002 11:49:33
+"Dalkeith Kirk Session records","jhm",23/7/2002 13:32:20,"jhm",23/7/2002 13:32:20
+"Dalkeith Presbytery records","jhm",29/6/2001 12:41:53,"jhm",29/6/2001 12:41:53
+"Dingwall Presbytery records","jhm",2/4/2002 11:04:39,"jhm",2/4/2002 11:04:39
+"Domestic Annals of Scotland","LEM",2/8/2002 11:43:34,"LEM",2/8/2002 11:43:34
+"Dumfries Kirk Session records","jhm",1/5/2002 16:17:25,"jhm",1/5/2002 16:17:25
+"Dumfries Presbytery records","jhm",3/10/2001 09:22:39,"jhm",3/10/2001 09:22:39
+"Dunbar Presbytery records","jhm",26/6/2001 11:08:47,"jhm",26/6/2001 11:08:47
+"Dunbarton Presbytery records","jhm",18/10/2002 15:21:47,"jhm",18/10/2002 15:21:47
+"Dunblane Presbytery records","jhm",26/6/2002 11:07:33,"jhm",26/6/2002 11:07:33
+"Dundas Papers","jhm",9/9/2002 15:20:23,"jhm",9/9/2002 15:20:23
+"Dundee Presbytery records","jhm",16/7/2002 10:03:07,"jhm",16/7/2002 10:03:07
+"Dundonald Parish Records","LEM",1/8/2002 17:17:40,"LEM",1/8/2002 17:17:40
+"Dunfermline Kirk Session records","jhm",11/7/2002 16:00:48,"jhm",11/7/2002 16:00:48
+"Dunfermline Presbytery records","jhm",16/1/2002 11:54:31,"jhm",16/1/2002 11:54:31
+"Dunoon Presbytery records","jhm",14/1/2002 09:47:46,"jhm",14/1/2002 09:47:46
+"Duns Presbytery Records","jhm",29/8/2001 10:51:38,"jhm",29/8/2001 10:51:38
+"Dysart Kirk session records","jhm",2/7/2002 09:13:57,"jhm",2/7/2002 09:13:57
+"Edinburgh Presbytery records","jhm",2/8/2001 15:35:38,"jhm",2/8/2001 15:35:38
+"Edinburgh Town Treasurer's Accounts","LEM",8/1/2002 17:13:09,"LEM",8/1/2002 17:13:09
+"Edinburgh, ECA Black Book","LEM",10/9/2002 12:40:33,"LEM",10/9/2002 12:40:33
+"Elgin (St Giles) kirk session records","jhm",28/6/2002 09:53:28,"jhm",28/6/2002 09:53:28
+"Elgin Presbytery records","jhm",27/3/2002 10:21:40,"jhm",27/3/2002 10:21:40
+"Ellon Presbytery records","jhm",4/3/2002 15:42:39,"jhm",4/3/2002 15:42:39
+"Exchequer Rolls","LEM",1/8/2002 11:45:47,"LEM",1/8/2002 11:45:47
+"Family Papers","LEM",6/11/2002 10:47:48,"LEM",6/11/2002 10:47:48
+"Fasti","LEM",8/6/2001 10:33:03,"LEM",8/6/2001 10:33:03
+"Fordyce Presbytery records","jhm",11/3/2002 10:22:06,"jhm",11/3/2002 10:22:06
+"Garioch Presbytery records","jhm",4/3/2002 11:57:15,"jhm",4/3/2002 11:57:15
+"General Assembly Commission Records","LEM",22/11/2001 10:21:33,"LEM",22/11/2001 10:21:33
+"Haddington Burgh Court Register","LEM",28/8/2002 21:00:37,"LEM",28/8/2002 21:00:37
+"Haddington Presbytery records","jhm",7/6/2001 14:51:28,"jhm",7/6/2001 14:51:28
+"High Court Minute Books","LEM",5/8/2002 10:01:47,"LEM",5/8/2002 10:01:47
+"High Court Process Notes","LEM",9/7/2001 10:02:19,"LEM",9/7/2001 10:02:19
+"High Court Record Index No. 1","LEM",29/8/2002 11:47:40,"LEM",29/8/2002 11:47:40
+"Highland Papers","jhm",27/8/2002 09:04:00,"jhm",27/8/2002 09:04:00
+"Humbie Kirk Session records","jhm",22/7/2002 11:15:58,"jhm",22/7/2002 11:15:58
+"Inveresk Kirk Session records","jhm",23/7/2002 16:12:00,"jhm",23/7/2002 16:12:00
+"Irvine Presbytery Records","LEM",2/8/2002 11:44:06,"LEM",2/8/2002 11:44:06
+"Jedburgh Presbytery records","jhm",3/9/2001 11:17:00,"jhm",3/9/2001 11:17:00
+"Kelso Kirk Session records","jhm",22/7/2002 14:23:11,"jhm",22/7/2002 14:23:11
+"Kingarth Kirk Session records","jhm",22/7/2002 12:15:40,"jhm",22/7/2002 12:15:40
+"Kirkcaldy Burgh Court Book","LEM",30/10/2002 11:21:35,"LEM",30/10/2002 11:21:35
+"Kirkcaldy Old Kirk Session records","jhm",8/5/2002 14:16:08,"jhm",8/5/2002 14:16:08
+"Kirkcaldy Presbytery records","jhm",17/1/2002 12:15:37,"jhm",17/1/2002 12:15:37
+"Kirkcudbright Presbytery records","jhm",23/10/2001 15:27:45,"jhm",23/10/2001 15:27:45
+"Lanark Presbytery Records","jhm",23/11/2001 11:08:07,"jhm",23/11/2001 11:08:07
+"Lawting Sheriff and Justice Court","LEM",19/6/2002 11:39:41,"jhm",18/9/2002 15:06:21
+"Linlithgow Council Minutes 1620-40","LEM",10/7/2002 08:53:01,"LEM",10/7/2002 08:53:01
+"Linlithgow presbytery records","jhm",23/7/2001 10:36:59,"jhm",23/7/2001 10:36:59
+"Livingston Kirk Session records","jhm",7/9/2001 10:55:24,"jhm",7/9/2001 10:55:24
+"Marwick Collection","LEM",19/6/2002 15:12:24,"LEM",19/6/2002 15:12:24
+"Mauchline Kirk Session","LEM",22/8/2001 15:07:49,"LEM",22/8/2001 15:07:49
+"Maxwell of Pollok Papers","jhm",10/7/2002 13:12:17,"jhm",18/9/2002 15:00:10
+"Memorials of the Earls of Haddington","jhm",9/9/2002 14:45:12,"jhm",9/9/2002 14:45:12
+"Menmuir Kirk session records","jhm",2/7/2002 13:58:08,"jhm",2/7/2002 13:58:08
+"Newbattle Kirk Session records","jhm",24/7/2002 10:37:24,"jhm",24/7/2002 10:37:24
+"North Berwick Kirk Session records","jhm",26/7/2002 11:43:24,"jhm",26/7/2002 11:43:24
+"Old Machar kirk session records","jhm",20/11/2002 12:16:19,"jhm",20/11/2002 12:16:19
+"Orkney Presbytery Records","jhm",17/6/2002 14:34:43,"jhm",17/6/2002 14:34:43
+"Paisley Presbytery records","jhm",4/12/2001 09:32:24,"jhm",4/12/2001 09:32:24
+"Peebles Presbytery records","jhm",27/7/2001 10:51:19,"jhm",27/7/2001 10:51:19
+"Penicuik Kirk Session records","jhm",24/7/2002 13:04:09,"jhm",24/7/2002 13:04:09
+"Penpoint Presbytery records","jhm",25/9/2001 09:51:38,"jhm",25/9/2001 09:51:38
+"Perth Presbytery Minutes","jhm",18/2/2002 15:26:59,"jhm",18/2/2002 15:26:59
+"Pitcairn","LEM",20/8/2002 13:39:03,"LEM",20/8/2002 13:39:03
+"Porteous Rolls","LEM",12/2/2002 14:45:27,"LEM",12/2/2002 14:45:27
+"private papers","LEM",19/6/2002 11:16:51,"LEM",19/6/2002 11:16:51
+"Privy Council","LEM",14/8/2002 09:56:50,"LEM",14/8/2002 09:56:50
+"Privy Council Register of Commissions","LEM",26/8/2002 09:30:29,"LEM",26/8/2002 09:30:29
+"Process Notes","LEM",7/2/2002 11:40:40,"LEM",7/2/2002 11:40:40
+"Protocol Book of Sir Ninian Bryden, 1536-1564","jhm",20/2/2002 15:21:25,"jhm",20/2/2002 15:21:25
+"Queensferry South (Old) kirk session records","jhm",28/6/2002 10:02:35,"jhm",28/6/2002 10:02:35
+"Royal Letters","jhm",9/9/2002 14:36:58,"jhm",9/9/2002 14:36:58
+"RPC","LEM",17/5/2001 11:32:18,"LEM",17/5/2001 11:32:18
+"Scotland and the Protectorate, C H Firth","LEM",7/8/2002 09:05:22,"LEM",7/8/2002 09:05:22
+"Selkirk Presbytery records","jhm",12/9/2001 09:51:28,"jhm",12/9/2001 09:51:28
+"Shapinsay Kirk Session records","jhm",19/6/2002 15:36:19,"jhm",19/6/2002 15:36:19
+"Sheriff Court Book","LEM",17/6/2002 16:50:18,"LEM",17/6/2002 16:50:18
+"Shetland Presbytery records","jhm",17/4/2002 10:44:18,"jhm",17/4/2002 10:44:18
+"SJC","LEM",17/5/2001 11:05:35,"LEM",17/5/2001 11:05:35
+"South Leith Kirk session records","jhm",2/7/2002 09:08:00,"jhm",2/7/2002 09:08:00
+"Spalding Club Miscellany","jhm",7/3/2002 16:48:55,"jhm",7/3/2002 16:48:55
+"Spottiswoode Miscellany","jhm",26/8/2002 16:52:30,"jhm",26/8/2002 16:52:30
+"St Andrews Presbytery records","jhm",2/8/2002 09:55:25,"jhm",2/8/2002 09:55:25
+"St Michael's, Dumfries kirk session records","jhm",17/4/2002 16:22:08,"jhm",17/4/2002 16:22:08
+"Stirling Burgh Court Book","jhm",9/9/2002 14:19:11,"jhm",9/9/2002 14:19:11
+"Stirling Presbytery records","jhm",27/6/2002 14:28:38,"jhm",27/6/2002 14:28:38
+"Stow Kirk session records","jhm",2/7/2002 15:35:37,"jhm",2/7/2002 15:35:37
+"Stranraer Presbytery records","jhm",25/4/2002 09:28:35,"jhm",25/4/2002 09:28:35
+"Strathbogie Presbytery records","jhm",28/3/2002 11:02:29,"jhm",28/3/2002 11:02:29
+"Synod of Perth and Stirling","jhm",9/9/2002 15:02:05,"jhm",9/9/2002 15:02:05
+"Tain Presytery records","jhm",3/4/2002 11:50:55,"jhm",3/4/2002 11:50:55
+"Thurso (St Peter's) Kirk Session records","jhm",26/7/2002 09:39:22,"jhm",26/7/2002 09:39:22
+"Turriff Presbytery records","jhm",21/2/2002 14:40:10,"jhm",21/2/2002 14:40:10
+"Tyninghame Kirk Session minutes","LEM",30/1/2002 17:24:15,"LEM",30/1/2002 17:24:15
+"Wemyss Kirk Session records","jhm",23/7/2002 10:29:46,"jhm",23/7/2002 10:29:46
+"Wigtown Presbytery records","jhm",23/10/2001 10:29:14,"jhm",23/10/2001 10:29:14
+"Witchcraft Papers","LEM",26/9/2001 16:07:20,"LEM",26/9/2001 16:07:20
